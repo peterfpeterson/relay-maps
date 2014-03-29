@@ -107,6 +107,46 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-84.850679,38.038045]},
         "properties": {"name": "Don’t Gorge Yourself", "leg": 27}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-84.804926,38.034853]},
+        "properties": {"name": "This ain’t France, this is 'Ver-sales'", "leg": 28}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-84.730623,38.051621]},
+        "properties": {"name": "Going to the Chapel", "leg": 29}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-84.793229,38.096652]},
+        "properties": {"name": "Woodford Reserve", "leg": 30}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-84.810022,38.112545]},
+        "properties": {"name": "In Like a Lamb, Out Like a Lion", "leg": 31}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-84.808584,38.164611]},
+        "properties": {"name": "Scenic Old Frankfort Pike", "leg": 32}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-84.749356,38.144554]},
+        "properties": {"name": "Horse Country at its Best", "leg": 33}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-84.682580,38.149832]},
+        "properties": {"name": "Romancing the Mill", "leg": 34}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-84.576277,38.140244]},
+        "properties": {"name": "Masterson Station Park", "leg": 35}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-84.555717,38.095330]},
+        "properties": {"name": "Get me to the Finish Line Celebration", "leg": 36}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-84.500409,38.049411]},
+        "properties": {"name": "Finish", "leg": 37}
       }
     ]
 }
