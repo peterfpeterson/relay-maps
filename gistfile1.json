@@ -4,10 +4,14 @@
         "geometry": {"type": "Point", "coordinates": [37.93071,-85.653022]},
         "properties": {"name": "start",
                        "leg": 1}
-        },
+      },
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [37.89913,-85.564764]},
         "properties": {"leg": 2}
-        }
-       ]
-     }
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [37.89913,-85.564764]},
+        "properties": {"leg": 2}
+      }
+    ]
+}
