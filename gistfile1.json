@@ -1,6 +1,10 @@
 { "type": "FeatureCollection",
     "features": [
       { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [102.0, 0.5]},
+        "properties": {"prop0": "value0"}
+      },
+      { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [37.93071,-85.653022]},
         "properties": {"name": "start",
                        "leg": 1}
