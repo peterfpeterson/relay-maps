@@ -1,21 +1,17 @@
 { "type": "FeatureCollection",
     "features": [
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [102.0, 0.5]},
-        "properties": {"prop0": "value0"}
-      },
-      { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-85.653022,37.93071]},
         "properties": {"name": "start",
                        "leg": 1}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [37.89913,-85.564764]},
+        "geometry": {"type": "Point", "coordinates": [-85.564764,37.89913]},
         "properties": {"leg": 2}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [37.89913,-85.564764]},
-        "properties": {"leg": 2}
+        "geometry": {"type": "Point", "coordinates": [-85.489753,37.838658]},
+        "properties": {"leg": 3}
       }
     ]
 }
