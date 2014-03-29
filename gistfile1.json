@@ -15,6 +15,10 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-85.464701,37.793144]},
         "properties": {"name": "Little Pottershop of Horrors!", "leg": 4}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-85.423520,37.762910]},
+        "properties": {"name": "Little Pottershop of Horrors, the Sequel", "leg": 5}
       }
     ]
 }
