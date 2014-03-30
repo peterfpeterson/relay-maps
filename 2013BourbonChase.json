@@ -53,11 +53,11 @@
         "properties": {"name": "Needmore sleep... food... gas", "leg": 13}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [-84.774035,37.645918]},
+        "geometry": {"type": "Point", "coordinates": [-84.862201,37.650346]},
         "properties": {"name": "Heart of Danville", "leg": 14}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [-84.7757874,37.6415774]},
+        "geometry": {"type": "Point", "coordinates": [-84.774035,37.645918]},
         "properties": {"name": "Outskirts of Danville", "leg": 15}
       },
       { "type": "Feature",
@@ -163,6 +163,7 @@
                         [-85.222723,37.683872],
                         [-85.133244,37.658837],
                         [-85.042521,37.647183],
+                        [-84.862201,37.650346],
                         [-84.951623,37.650351],
                         [-84.774035,37.645918],
                         [-84.7757874,37.6415774],
