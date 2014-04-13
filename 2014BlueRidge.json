@@ -1,8 +1,0 @@
-{ "type": "FeatureCollection",
-    "features": [
-      { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [-81.49995,36.62419]},
-        "properties": {"leg": 1, "miles": 7.1, "name": "The Chase Begins"}
-      }
-    ]
-}
